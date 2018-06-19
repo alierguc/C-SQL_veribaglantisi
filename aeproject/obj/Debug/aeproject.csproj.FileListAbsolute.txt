@@ -1,0 +1,11 @@
+C:\Users\Ali\Desktop\Aproje\aeproject\aeproject\bin\Debug\aeproject.exe.config
+C:\Users\Ali\Desktop\Aproje\aeproject\aeproject\bin\Debug\aeproject.exe
+C:\Users\Ali\Desktop\Aproje\aeproject\aeproject\bin\Debug\aeproject.pdb
+C:\Users\Ali\Desktop\Aproje\aeproject\aeproject\obj\Debug\aeproject.csprojResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\Aproje\aeproject\aeproject\obj\Debug\aeproject.Form1.resources
+C:\Users\Ali\Desktop\Aproje\aeproject\aeproject\obj\Debug\aeproject.Properties.Resources.resources
+C:\Users\Ali\Desktop\Aproje\aeproject\aeproject\obj\Debug\aeproject.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\Aproje\aeproject\aeproject\obj\Debug\aeproject.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\Aproje\aeproject\aeproject\obj\Debug\aeproject.exe
+C:\Users\Ali\Desktop\Aproje\aeproject\aeproject\obj\Debug\aeproject.pdb
+C:\Users\Ali\Desktop\Aproje\aeproject\aeproject\obj\Debug\aeproject.Form2.resources
